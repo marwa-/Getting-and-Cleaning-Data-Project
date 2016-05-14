@@ -8,8 +8,8 @@ The R script, run_analysis.R, does the following:
   - The columns representing the "activity" and "subject" are changed into factor levels
   - Tidy the header names and the activity levels names for consistency and readability
   - Selecting columns for the first dataset that represent means and standard deviations of observations
-  - Writing and saving first data set "tidy.txt"
+  - Writing and saving first data set "tidy_main.txt"
   - Calculating the mean of each variable for each activity and each subject.
-  - Writing and saving second dataset "tidy_average.txt"
+  - Writing and saving second dataset "tidy.txt"
  
-The end result datasets  are  shown in the file tidy.txt" and "tidy_average.txt".
+The end result datasets  are  shown in the file tidy.txt" and "tidy_main.txt".

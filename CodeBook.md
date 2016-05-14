@@ -1,7 +1,7 @@
 # Code Book 
 
 This is the codebook for the final project in the course "Getting and Cleaning Data" describing the variables in :
-"tidy_average.txt" and "tidy.txt"
+"tidy_main.txt" and "tidy.txt"
 
 ### Identifier
     These are the factor levels that identifies the 2 sets
